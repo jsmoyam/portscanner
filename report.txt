@@ -1,0 +1,5 @@
+server 8.8.8.8 20 KO
+server 8.8.8.8 53 OK
+server2 8.8.4.4 33 KO
+server2 8.8.4.4 44 KO
+server2 8.8.4.4 55 KO
